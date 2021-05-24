@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Microsoft Word</title>
+    <topicref href="what_is_micosoft_word.dita"/>
+    <topicref href="how_to_bold_your_text_in_a_microsoft_word_document.dita"/>
+    <topicref href="how_to_center_your_text_in_a_microsoft_word_document.dita"/>
+    <topicref href="how_to_create_bullets_in_a_microsoft_word_document.dita"/>
+    <topicref href="how_to_insert_picture_in_a_microsoft_word_document.dita"/>
+    <topicref href="how_to_change_the_text_color_in_a_microsoft_word_document.dita"/>
+    <topicref href="how_to_italisize_your_text_in_a_microsoft_word_document.dita"/>
+</map>
